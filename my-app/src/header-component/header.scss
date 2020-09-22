@@ -1,0 +1,74 @@
+@import "src/variables";
+
+$header-font-size: 24px;
+$mobile-header-font-size: 24px;
+
+header {
+  a:hover{
+    text-decoration: none;
+  }
+  font-size: 24px;
+  margin: 40px 40px 0 40px;
+
+  nav {
+    #top-logo-placeholder {
+      img#top-logo {
+        margin-right: 10px;
+      }
+
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+
+      #top-title {
+        text-align: left;
+        font-family: $font-family-base;
+        font-weight: 500;
+        letter-spacing: 0;
+        color: #000000;
+        opacity: 1;
+      }
+    }
+
+    #top-nav {
+      display: flex;
+      align-items: center;
+
+      a.top-nav-item {
+        font-family: $font-family-base;
+        font-weight: 300;
+        letter-spacing: 0px;
+        color: #666666;
+        opacity: 1;
+        margin-left: 40px;
+      }
+    }
+
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  header {
+    margin: 40px 0;
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  header {
+    margin: 20px 0;
+    font-size: 16px;
+
+    nav {
+      #top-nav {
+        display: flex;
+        align-items: center;
+
+        a.top-nav-item {
+          margin-left: 10px;
+        }
+      }
+    }
+  }
+}
