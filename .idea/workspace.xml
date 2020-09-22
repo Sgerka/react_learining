@@ -2,31 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aebdb3a7-23a8-445a-a05f-4353e3e1292e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/footer-component/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/footer-component/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/header-component/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/header-component/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,26 +61,42 @@
       <option name="presentableId" value="Default" />
       <updated>1600792470082</updated>
       <workItem from="1600792471245" duration="1101000" />
-      <workItem from="1600793685662" duration="7297000" />
+      <workItem from="1600793685662" duration="7939000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding header and footer">
+      <created>1600808379740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600808379740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding header and footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding header and footer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2411" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600796002349">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
     <state x="2411" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600796002349" />
-    <state x="2293" y="65" key="CommitChangelistDialog2" timestamp="1600792647925">
+    <state x="2293" y="65" key="CommitChangelistDialog2" timestamp="1600808379481">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
-    <state x="2293" y="65" key="CommitChangelistDialog2/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600792647925" />
+    <state x="2293" y="65" key="CommitChangelistDialog2/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600808379481" />
     <state x="1540" y="-137" width="2360" height="1217" key="DiffContextDialog" timestamp="1600808322957">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
     <state x="1540" y="-137" width="2360" height="1217" key="DiffContextDialog/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600808322957" />
+    <state x="2320" y="211" key="Vcs.Push.Dialog.v2" timestamp="1600808508348">
+      <screen x="1440" y="-237" width="2560" height="1417" />
+    </state>
+    <state x="2320" y="211" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600808508348" />
     <state x="2427" y="226" width="586" height="490" key="find.popup" timestamp="1600803598586">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
