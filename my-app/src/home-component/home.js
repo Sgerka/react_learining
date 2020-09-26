@@ -1,5 +1,5 @@
 import React from 'react';
-import About from "./about";
+import About from "../about-component/about";
 import './home.scss';
 
 function Heading(){

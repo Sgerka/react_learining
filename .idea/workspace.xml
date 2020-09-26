@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="aebdb3a7-23a8-445a-a05f-4353e3e1292e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/encryption_ico.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/expiration_ico.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/twofa_ico.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/header-component/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/header-component/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/home-component/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/about-component/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/home-component/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/about-component/about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/home-component/encryption_ico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/about-component/encryption_ico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/home-component/expiration_ico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/about-component/expiration_ico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/home-component/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/home-component/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/home-component/twofa_ico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/about-component/twofa_ico.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +67,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my-app/src/about-component" />
+      <recent name="$PROJECT_DIR$/my-app/src/header" />
+      <recent name="$PROJECT_DIR$/my-app/src/fonts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/my-app/src/home-component" />
       <recent name="$PROJECT_DIR$/my-app/public" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/my-app/src/header" />
-      <recent name="$PROJECT_DIR$/my-app/src/fonts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -98,6 +112,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding header and footer" />
     <MESSAGE value="Adding router" />
@@ -112,11 +137,15 @@
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
     <state x="2293" y="65" key="CommitChangelistDialog2/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600808999147" />
-    <state x="1540" y="-137" width="2360" height="1217" key="DiffContextDialog" timestamp="1600883838876">
+    <state x="1540" y="-137" width="2360" height="1217" key="DiffContextDialog" timestamp="1601119680410">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
-    <state x="1540" y="-137" width="2360" height="1217" key="DiffContextDialog/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600883838876" />
+    <state x="1540" y="-137" width="2360" height="1217" key="DiffContextDialog/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1601119680410" />
     <state x="56" y="85" width="1328" height="754" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1600861031417" />
+    <state x="2414" y="181" key="RollbackChangesDialog" timestamp="1601119608329">
+      <screen x="1440" y="-237" width="2560" height="1417" />
+    </state>
+    <state x="2414" y="181" key="RollbackChangesDialog/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1601119608329" />
     <state x="2320" y="211" key="Vcs.Push.Dialog.v2" timestamp="1600809001542">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
