@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aebdb3a7-23a8-445a-a05f-4353e3e1292e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/encryption_ico.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/expiration_ico.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/home-component/twofa_ico.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/header-component/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/header-component/header.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
         <option value="Sass File" />
         <option value="JavaScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -38,8 +45,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-app/src/home-component" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -47,6 +54,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my-app/src/home-component" />
+      <recent name="$PROJECT_DIR$/my-app/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/my-app/src/header" />
       <recent name="$PROJECT_DIR$/my-app/src/fonts" />
@@ -61,7 +72,11 @@
       <option name="presentableId" value="Default" />
       <updated>1600792470082</updated>
       <workItem from="1600792471245" duration="1101000" />
-      <workItem from="1600793685662" duration="7939000" />
+      <workItem from="1600793685662" duration="8140000" />
+      <workItem from="1600859769541" duration="420000" />
+      <workItem from="1600874605134" duration="2209000" />
+      <workItem from="1600957379393" duration="5545000" />
+      <workItem from="1601115674916" duration="2941000" />
     </task>
     <task id="LOCAL-00001" summary="Adding header and footer">
       <created>1600808379740</created>
@@ -70,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600808379740</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding router">
+      <created>1600808999316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600808999316</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,32 +100,36 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding header and footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding header and footer" />
+    <MESSAGE value="Adding router" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding router" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2411" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600796002349">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
     <state x="2411" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600796002349" />
-    <state x="2293" y="65" key="CommitChangelistDialog2" timestamp="1600808379481">
+    <state x="2293" y="65" key="CommitChangelistDialog2" timestamp="1600808999147">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
-    <state x="2293" y="65" key="CommitChangelistDialog2/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600808379481" />
-    <state x="1540" y="-137" width="2360" height="1217" key="DiffContextDialog" timestamp="1600808322957">
+    <state x="2293" y="65" key="CommitChangelistDialog2/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600808999147" />
+    <state x="1540" y="-137" width="2360" height="1217" key="DiffContextDialog" timestamp="1600883838876">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
-    <state x="1540" y="-137" width="2360" height="1217" key="DiffContextDialog/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600808322957" />
-    <state x="2320" y="211" key="Vcs.Push.Dialog.v2" timestamp="1600808508348">
+    <state x="1540" y="-137" width="2360" height="1217" key="DiffContextDialog/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600883838876" />
+    <state x="56" y="85" width="1328" height="754" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1600861031417" />
+    <state x="2320" y="211" key="Vcs.Push.Dialog.v2" timestamp="1600809001542">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
-    <state x="2320" y="211" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600808508348" />
-    <state x="2427" y="226" width="586" height="490" key="find.popup" timestamp="1600803598586">
+    <state x="2320" y="211" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600809001542" />
+    <state x="2427" y="226" width="586" height="490" key="find.popup" timestamp="1600959376207">
       <screen x="1440" y="-237" width="2560" height="1417" />
     </state>
-    <state x="2427" y="226" width="586" height="490" key="find.popup/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600803598586" />
-    <state x="2385" y="88" width="670" height="676" key="search.everywhere.popup" timestamp="1600803604691">
-      <screen x="1440" y="-237" width="2560" height="1417" />
+    <state x="555" y="310" width="568" height="490" key="find.popup/0.23.1440.877/1440.-237.2560.1417@0.23.1440.877" timestamp="1600874724864" />
+    <state x="2427" y="226" width="586" height="490" key="find.popup/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600959376207" />
+    <state x="532" y="224" width="670" height="419" key="search.everywhere.popup" timestamp="1600861133127">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="2385" y="88" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.-237.2560.1417@1440.-237.2560.1417" timestamp="1600803604691" />
+    <state x="532" y="224" width="670" height="419" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1600861133127" />
   </component>
 </project>
